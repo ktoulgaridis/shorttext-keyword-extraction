@@ -2,6 +2,8 @@ Shorttext Keyword Extraction
 =========================================================================
 
 In this project a short-text keyword extractor under development.
+- Experimentation and prototyping on Jupyter Notebook. 
+- 
 
 ### Current Stage: Feature Engineering
 Working with Amit Mittal's [Quotes Dataset](https://www.kaggle.com/akmittal/quotes-dataset#quotes.json)
@@ -9,7 +11,9 @@ Working with Amit Mittal's [Quotes Dataset](https://www.kaggle.com/akmittal/quot
 ### Next Steps
 - Use [Google's Word2Vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) model or Facebook FastText model and then a ConvNet or Double ConvNet depending on the performance and accuracy.
 
-- Create Rest API with Django
+- Create Web API (Rest) with Django. 
+
+- Deploy API to AWS.
 
 
 
