@@ -3,7 +3,6 @@ Shorttext Keyword Extraction
 
 In this project a short-text keyword extractor under development.
 - Experimentation and prototyping on Jupyter Notebook. 
-- 
 
 ### Current Stage: Feature Engineering
 Working with Amit Mittal's [Quotes Dataset](https://www.kaggle.com/akmittal/quotes-dataset#quotes.json)
